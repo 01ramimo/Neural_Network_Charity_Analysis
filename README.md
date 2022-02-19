@@ -10,7 +10,7 @@ The purpose of this analysis is to apply a “deep learning model” to predict 
 
 •        Final optimization of the model
 
-### Results:
+### Results
 
 ### Data Preprocessing:
 •       The variable being targeted in this module is the ‘IS_SUCCESSFUL’ column.
@@ -32,7 +32,7 @@ Our model target was 75%, unfortunately, we were not able to achieve it.
 •   Some of the attempts applied to help increase model performance were as follows:
 •  Adding the number of hidden layers and the number of neurons 
 
-### Summary:
+### Summary
 
 The purpose of this project was to attempt to determine which organizations funded by AlphabetSoup would succeed and should receive donations by applying a deep learning model. The accuracy target performance for this prediction was 75% which unfortunately was not achieved.  Instead, the model accuracy was slightly lower at 72%. Perhaps, dropping more features and focusing more on variables that impact our outcomes would have helped. For future analysis, maybe using more solid/concrete data could help increase the accuracy of the model.
 
